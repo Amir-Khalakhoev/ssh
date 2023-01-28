@@ -1,0 +1,8 @@
+root
+admin
+toor
+pass
+rootpasswd
+rootpassw
+rootpass
+mypass
