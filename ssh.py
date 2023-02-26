@@ -6,7 +6,7 @@ from requests import get
 from threading import Thread
 
 id = ""
-token = "5816594452:AAHF59WWlj0MXlFeDBubdzXBpH9sHXlGrvg"
+token = ""
 
 userpasses = open("user.txt", "r").read().splitlines()
 adminpasses = open("admin.txt", "r").read().splitlines()
